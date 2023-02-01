@@ -26,13 +26,6 @@
 	<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
 </div> 
 
-<div align="center">
-<h4>🖥 Blog </h4>
-  <a href="https://velog.io/@ryudg_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
-<h4>✉ Mail</h4>
-	<a href="mailto:ryudg95@gmail.com">ryudg95@gmail.com</a>
-</div>
-
 <br>
 
 <div align="center">
