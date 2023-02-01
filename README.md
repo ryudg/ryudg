@@ -42,7 +42,7 @@ https://simpleicons.org/?q=type
 
 <div align="center">
   <h4>🌱 Blog</h4>
-  [<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />](https://velog.io/@ryudg_)
+	<a href="https://velog.io/@ryudg_" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
 </div>
 
 <br>
