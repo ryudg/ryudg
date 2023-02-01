@@ -1,3 +1,4 @@
+<!-- https://simpleicons.org/?q=grap -->
 <div align="center">
   <h3>🎨 Stack</h3>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -19,13 +20,16 @@
 
 <div align="center">
   <h4>✍ I’m currently learning ...</h4>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />  
+	<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
 </div> 
 
 <div align="center">
 <h4>🖥 Blog </h4>
   <a href="https://velog.io/@ryudg_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
-<h4>✉ Mailg</h4>
+<h4>✉ Mail</h4>
 	<a href="mailto:ryudg95@gmail.com">ryudg95@gmail.com</a>
 </div>
 
