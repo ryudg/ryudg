@@ -1,4 +1,4 @@
-<!-- https://simpleicons.org/?q=grap -->
+<!-- https://simpleicons.org/ -->
 <div align="center">
   <h3>🎨 Stack</h3>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
